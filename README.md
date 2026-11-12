@@ -55,6 +55,9 @@ section, so you can copy them instead of retyping.
 | `commands/ch07.md` | 7. Merge Conflicts Without the Panic | 15 |
 | `commands/ch08.md` | 8. Going Online with GitHub: Push, Pull, and Clone | 18 |
 | `commands/ch09.md` | 9. Using Git with AI Coding Assistants | 5 |
+| `commands/ch10.md` | 10. Pull Requests and Code Review Before You Merge | 15 |
+| `commands/ch11.md` | 11. GitHub Pages and Actions: Put Your App Online for Free | 11 |
+| `commands/ch12.md` | 12. A Daily Workflow and Your First Steps into Teamwork | 18 |
 
 ## Errata and questions
 
