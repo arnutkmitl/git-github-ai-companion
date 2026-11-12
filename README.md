@@ -1,7 +1,7 @@
 # Git & GitHub for AI-Assisted Developers: Companion Files
 
 Starter files, scenario files, solutions, and every command used in the book
-*Git & GitHub for AI-Assisted Developers: Track, Review, and Undo Every Change Your AI Makes, Step by Step*
+*Git & GitHub for AI-Assisted Developers: A Hands-On Guide to Version Control, Branching, Collaboration, and AI Coding Workflows*
 by Arnut Ruttanatirakul (SysAdmin Knowledge Press).
 
 The running project is the menu page of a fictional coffee shop, **SysAdmin Knowledge**,
