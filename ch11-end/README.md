@@ -1,0 +1,30 @@
+# SysAdmin Knowledge
+
+A menu web page for a fictional coffee shop (all data is sample data), used as the practice project in the book Git & GitHub for AI-Assisted Developers.
+
+## How to open the app
+
+See the app online at https://alex-dev.github.io/coffee-menu/, or download or clone this project and double-click index.html to open it in your browser. Nothing else needs to be installed.
+
+## Features
+
+- Shows drinks and pastries with prices and descriptions
+- Sort-by-price button
+- Dark mode toggle
+- Category filter buttons
+
+## How to test
+
+Automated tests: run `node --test` (requires Node.js). GitHub Actions runs them on every PR.
+
+Manual checks in the browser:
+
+1. The menu shows all eight items; Latte costs $4.50.
+2. Click Sort by price: Thai Iced Tea ($2.50) appears first.
+3. Click Toggle dark mode: the background turns dark and prices stay readable.
+4. Click Coffee: five items remain. Click Tea: only Thai Iced Tea remains. Click Pastries: two items remain. Click All: all eight items return.
+5. Filter by Coffee, then click Sort by price: only those five items are sorted.
+
+## Contact
+
+Phone: 555-0100 (fictional number)
